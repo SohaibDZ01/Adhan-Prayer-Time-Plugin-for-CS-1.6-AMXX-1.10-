@@ -1,5 +1,7 @@
 # 📿 Adhan & Prayer Time Plugin for CS 1.6 (AMXX 1.10)
 
+DOWNLOAD  HERE: https://github.com/SohaibDZ01/Adhan-Prayer-Time-Plugin-for-CS-1.6-AMXX-1.10-/releases/tag/cs1.6
+
 ## 🔧 Overview
 
 This plugin is developed by me with the aim of encouraging players in **Algeria** to pray on time. When it's time for **Adhan (Islamic call to prayer)**, the plugin plays the Adhan sound for players located in Algeria and automatically moves them to **Spectator mode for 15 minutes**, allowing them to take a break from the game and perform their prayer.
@@ -53,5 +55,7 @@ This way, everyone shares in the **Ajar (reward) and Hassanat (good deeds)**.
 ## 🕌 Final Note
 
 The plugin is still under development. Your feedback and suggestions are welcome!
+
+DOWNLOAD  HERE: https://github.com/SohaibDZ01/Adhan-Prayer-Time-Plugin-for-CS-1.6-AMXX-1.10-/releases/tag/cs1.6
 
 **Baraka Allahou Fikom – May Allah bless you all.**
